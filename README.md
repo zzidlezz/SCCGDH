@@ -8,3 +8,14 @@ FLICKR-25K:链接：https://pan.baidu.com/s/16pt9bFUvivSJyn4lsikzYg  提取码�
 MS-COCO:链接：https://pan.baidu.com/s/1MzAAUa2waCRP7u3mVKZrnw  提取码：9qh0
 
 NUSWIDE：链接：https://pan.baidu.com/s/1QuiKfoKQ1eOC6efoGxwQuQ 提取码：757h
+
+# How to run
+My environment is
+
+python==3.6.0 
+
+torchvision==0.11.1
+
+pytorch==1.10.0  
+
+numpy==1.17.0
