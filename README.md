@@ -24,4 +24,4 @@ You can easily train and test any algorithm just by
 
 run SCCGDH.py
 
-If you have any problems, feel free to contact me by email(491809807@qq.com) or raise an issue.
+If you have any problems, please contact me by email(491809807@qq.com) or raise an issue.
