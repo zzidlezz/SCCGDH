@@ -9,19 +9,4 @@ MS-COCO:链接：https://pan.baidu.com/s/1MzAAUa2waCRP7u3mVKZrnw  提取码：9q
 
 NUSWIDE：链接：https://pan.baidu.com/s/1QuiKfoKQ1eOC6efoGxwQuQ 提取码：757h
 
-# How to run
-My environment is
 
-python==3.6.0 
-
-torchvision==0.11.1
-
-pytorch==1.10.0  
-
-numpy==1.17.0
-
-You can easily train and test any algorithm just by
-
-run SCCGDH.py
-
-If you have any problems, please contact me by email(491809807@qq.com) or raise an issue.
